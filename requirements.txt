@@ -1,6 +1,0 @@
-nginx
-복사편집
-streamlit
-pytesseract
-Pillow
-pandas
